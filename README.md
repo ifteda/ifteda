@@ -2,7 +2,7 @@
 
 🌐 **personal website**: [ifteda.com](https://ifteda.com/)
 
-<a href="https://github.com/ifteda">
+<a href="https://github.com/ifteda" target="_blank" rel="noopener noreferrer">
     <img src="https://komarev.com/ghpvc/?username=iftedae&color=1E2832&label=visitors">
 </a>
 
